@@ -1,6 +1,10 @@
 # CryptoBars-Hamlet: Collectible Hamlet pieces in binary on the Ethereum Blockchain
 
 CryptoBars-Hamlet is a collection of 2652 unique collectible pieces of Shakespeare's Hamlet in binary (0 and 1). Each piece contains 72 characters from the tragedy (576 bits). Pieces of each Scene has a unique color (there are 20 Scenes). There are 19 pieces with two colors, falling between two different scenes. 
+
+You can find list of peices and their info here:
+![peices](./list_of_peices.csv)
+
 ## How it works
 Here is the first piece, containing the following text in binary:
 
