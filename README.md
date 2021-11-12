@@ -19,3 +19,4 @@ SCENE\n
 The first row of the piece contains:
 T:'01010100'
 H:'01001000'
+E:'01000101'
